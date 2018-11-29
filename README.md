@@ -8,7 +8,7 @@ https://stefanyr.github.io/datasetgraph/
 
 * События, описанные в пьесе, происходят в конце 1918 — начале 1919 годов в Киеве и охватывают собой падение режима гетмана Скоропадского, приход Петлюры и изгнание его из города большевиками. На фоне постоянной смены власти происходит личная трагедия семьи Турбиных, ломаются основы старой жизни.
 
-![alt text] (https://github.com/StefanyR/datasetgraph/blob/master/Untitled-1.jpg "Logo Title Text 1")
+![untitled-1](https://user-images.githubusercontent.com/37667042/49245910-b3f55580-f424-11e8-9efb-f81faeeef439.jpg)
 
 Subject | Numbes
 --- | --- 
