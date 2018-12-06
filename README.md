@@ -25,4 +25,7 @@ Subject | Numbes
 
 Разделение на группы по модулярности верное
 
+![diagarm](https://user-images.githubusercontent.com/37667042/49602353-4c498800-f999-11e8-9cca-bf4349c15c21.jpg)
+
+
 
